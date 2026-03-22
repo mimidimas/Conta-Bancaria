@@ -1,10 +1,18 @@
 Escreva um código onde temos uma conta bancaria que possa realizar as seguintes operações:
-  •  Consultar saldo
-  •  Consultar cheque especial
+
+  •  Consultar saldo;
+  
+  •  Consultar cheque especial;
+  
   •  Depositar dinheiro;
+  
   •  Sacar dinheiro;
-  •  Pagar um boleto.
+  
+  •  Pagar um boleto;
+  
   •  Verificar se a conta está usando cheque especial.
+
+  
 
 Siga as seguintes regras para implementar:
 
